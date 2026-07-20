@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepic.jpeg"
   name             : "Rohan Didmishe"
   pronouns         : # example: "she/her"  
   bio              : "A PhD student in Mathematics in the Applied Analysis group at MPI MiS"
